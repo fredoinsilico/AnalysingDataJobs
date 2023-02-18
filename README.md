@@ -3,7 +3,7 @@
 ########################
 
 # Analysing Data Jobs Project
-Authors: Herminia (ARG), Flavio (ARG), Federico (ARG), Luis (COL), Alfredo (PER)
+Authors: Jose (VEN), Nestor (ARG), Hamil (ARG), Alfredo (PER)
 We are all Junior Data analysts
 ## Objetctives
 This is a brief analysis of data analyst positions in USA, Canada and Africa wher we aimed to get information from positions in order to get some comparisons between alike and different condition from the proposals 
@@ -13,14 +13,14 @@ This is a brief analysis of data analyst positions in USA, Canada and Africa whe
 ##################
 
 # Proyecto de análisis de trabajos de datos
-Autores: Herminia (ARG), Flavio (ARG), Federico (ARG), Luis (COL), Alfredo (PER)
+Autores: Jose (VEN), Nestor (ARG), Hamil (ARG), Alfredo (PER)
 Somos Analistas de Datos Juniors
 ## Objetivos
-Este es un breve análisis de los puestos de analistas de datos en EE. UU., Canadá y África, donde buscamos obtener información de los puestos para obtener algunas comparaciones entre condiciones similares y diferentes de las propuestas.
+Este es un breve análisis de los puestos de analistas de datos en EE. UU., Canadá y África, donde buscamos obtener información comparativa comparaciones entre condiciones similares y diferentes de las propuestas.
 
 ## Sobre la data
 
-La data fue extraida del siguiente enlace [] de la web Kaggle
+La data fue extraida del siguiente enlace [https://www.kaggle.com/datasets/cedricaubin/linkedin-data-analyst-jobs-listings] de la web Kaggle
 
 # Ideas
 - Diferencias en Salarios de cada uno (Todo convertido en dolares de Estados unidos)
